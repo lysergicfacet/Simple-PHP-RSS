@@ -1,0 +1,10 @@
+[
+	{
+		"title": "Example RSS Feed Title",
+		"url": "https://example.com/feed.xml"
+	},
+	{
+		"title": "Example RSS Feed Title 2",
+		"url": "https://example.com/feed2.xml"
+	}
+]
